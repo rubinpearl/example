@@ -1,0 +1,100 @@
+body { font-family: "ヒラギノ丸ゴPro","Hiragino Maru Gothic Pro"; font-size: 1em; background: url("../img/wood-bg.jpg");}
+h1, h2, h3, h4, h5 { font-family: "ヒラギノ丸ゴPro","Hiragino Maru Gothic Pro"; !important;}
+.underline { text-decoration: underline;}
+.element-wrapper label { font-size: 25px;}
+.element-wrapper  { margin-top: 15px;}
+input[type="text"] { font-size: 30px; padding-top: 15px;}
+.top-15 { margin-top: 15px;}
+
+#header { background: #EBE2D5; margin-top: 10px;}
+#header > div { height: 45px;}
+#header > div > span { color: #3F2E1E; padding-top: 10px; font-size: 18px;}
+
+#footer { background: #3F2E1E; height: 92px; margin-bottom: 10px;}
+.footer-actions-btn { margin-top: 15px;}
+
+#body { background: #FAF5EF;}
+.form-signin { width: 420px; margin: 0 auto; text-align: center; margin-top: 60px;}
+.form-signin .form-title { background: #EFE7DC; padding-top: 14px; padding-bottom: 14px;}
+
+.number-plan, .first-start { width: 600px; margin: 0 auto; margin-top: 20px;}
+.radio-group-wrapper .number-btn-group-wrapper .number-btn, 
+.number-btn-group-wrapper .number-btn, 
+.number-btn-group-wrapper .delete-btn { height: 80px; padding-left: 8px; padding-right: 8px;}
+
+.first-start { margin-top: 80px;}
+.first-start .radio-group-wrapper { margin-top: 70px; padding-left: 90px; padding-right: 90px;}
+.first-start .des { background-image: url(../img/guide_bk1.png); height: 160px; width: 700; background-repeat: no-repeat;}
+.first-start .des span { font-size: 30px; width: 550px; float: right; margin-top: 60px;}
+.first-start .help-text  { font-size: 25px; padding-top: 30px;}
+.first-start .number-plan section.number-btn, .first-start .number-plan section.delete-btn { height: 60px;}
+.first-start .number-plan button { padding-top: 10px; box-shadow: 0 10px #8e7755 !important;}
+
+.birth-format { text-align: center; margin-top: 10px; margin-bottom: 15px;}
+.jp-date section.press { height: 60px !important;}
+.jp-date section.press button { font-size: 25px; box-shadow: 0 10px #8e7755 !important; padding-left: 0; padding-right: 0;}
+.jp-date section.press button.active { margin-top: 2px;}
+.jp-date > .row { margin-left: -25px; margin-right: -25px;}
+.jp-date .radio-group-wrapper { margin-top: 0; padding-left: 15px; padding-right: 0;}
+.jp-date .radio-group-wrapper .glyphicon { top: 23px; left: 1px; font-size: 18px;}
+.jp-date .radio-group-wrapper section { padding-left: 8px; padding-right: 8px;}
+.jp-date .birth-date { padding-left: 40px;}
+.jp-date .birth-date input[type="text"] { width: 90px; display: inline-block; padding: 34px 15px;}
+.jp-date .birth-date .text { font-size: 32px;}
+.jp-date .number-plan .number-btn, .jp-date .number-plan .delete-btn { height: 80px;}
+
+section.press { margin-bottom: 35px;}
+section.press.btn-pattern1 { height: 120px;}
+section.press button { font-family: "ヒラギノ丸ゴPro","Hiragino Maru Gothic Pro"; position: relative; width: 100%; height: 100%; font-size: 37px; background-image: -webkit-linear-gradient(top, #fdf8ee, #d9c6a9); color: #3F2E1E; -webkit-box-shadow: 0 20px #8e7755 !important; -moz-box-shadow: 0 20px #8e7755 !important; box-shadow: 0 20px #8e7755 !important; border: 2px solid #af9671 !important; border-radius: 10px !important; padding-left: 0; padding-right: 0;}
+section.press button.active { color: #FFFFFF; background-image: -webkit-linear-gradient(top, #ed4863, #c30b2a); -webkit-box-shadow: 0 4px #e4dccf !important; -moz-box-shadow: 0 4px #e4dccf !important; box-shadow: 0 4px #e4dccf !important; border: 2px solid #c32133 !important; margin-top: 13px;}
+section.press button .glyphicon { position: absolute; left: 15px; top: 38px; color: #FFCC00}
+
+.info-request .first-start .first-start-02 .des span, .start-date .first-start .des span { margin-top: 38px;}
+.info-request .first-start .first-start-02 .radio-group-wrapper,
+.start-date .first-start .first-start-02 .radio-group-wrapper { padding-left: 40px; padding-right: 40px;}
+.pain-place .first-start .first-start-02 .radio-group-wrapper { padding-left: 0; padding-right: 0;}
+
+.ninshin .first-start { width: 600px;} 
+.ninshin .first-start-02 { width: 700px;} 
+.ninshin .des span { font-size: 28px; width: 450px; margin-top: 42px;}
+.ninshin .des .note { font-size: 28px; color: #FF0000; margin-top: 0;}
+.first-start .radio-group-wrapper { padding-left: 0; padding-right: 0;}
+.ninshin .radio-group-wrapper > .row { margin-left: -120px; margin-right: -120px;}
+.ninshin .radio-group-wrapper > .row > .col-md-4 { width:24%;}
+.ninshin .radio-group-wrapper > .row > .col-md-8 { width:76%;}
+
+.ninshin .mixed-group-wrapper > .row { margin-left: -40px; margin-right: -40px;} 
+.ninshin .col-md-8 { border: 2px solid #af9671; background: #EBE2D5;}
+.ninshin .col-md-8 .row:first-child { text-align: center; font-size: 30px; margin-top: 25px; margin-bottom: 25px;}
+
+.shokuji .first-start .radio-group-wrapper { margin-top: 15px; padding-left: 0; padding-right: 0;}
+.shokuji section.press .glyphicon { top: 15px;}
+.shokuji section.press button.active { margin-top: 5px;}
+
+.mixed-group-wrapper, .check-group-wrapper { margin-top: 60px;}
+
+.how-to-know .first-start { width: 600px;}
+.how-to-know .radio-group-wrapper { margin-left: -25px; margin-right: -25px; padding-left: 0; padding-right: 0;}
+.how-to-know section.press button { font-size: 20px;}
+.how-to-know .extra-info div { font-size: 30px; margin-bottom: 15px;}
+
+.manual-t1 .first-start, .manual-t2 .first-start { width: 610px;}
+.manual-t1 .des, .manual-t2 .des { background: url(../img/guide_bk2.png); background-repeat: no-repeat; height: 690px; padding: 45px 30px 0 30px;}
+.manual-t1 .des img { width: 300px;}
+.manual-t1 .des span { width: 480px; margin-top: 30px; text-align: left;}
+
+.manual-t2 .des span { width: 550px; margin-top: 0; font-size: 28px; text-align: left;}
+
+.customer-info .check-group-wrapper, .customer-info2 .check-group-wrapper { margin-left: -40px; margin-right:-40px;}
+.customer-info section.press button, .customer-info2 section.press button { font-size: 26px; line-height:28px;}
+.customer-info2 .first-start .des span { padding: 40px; margin-top: 0; text-align: left;}
+
+.redirect-page { background: url(../img/gray-layer-bg.png);}
+
+.step-status { position: relative; }
+.step-status > div { position: absolute; top: 15px; right: 20px;}
+.step-status > div > img:first-child { margin-right: 6px;}
+.step-status > div > img { margin-left: -3px;}
+
+.q1 .first-start { width: 700px;}
+.q1 .radio-group-wrapper > .row:first-child { margin-left: 40px; margin-right: 40px;}
